@@ -5,7 +5,7 @@
 
 
 <h2>💻 Tech Stack, I've worked with 🧰</h2>
-<br>
+
 <li>Frontend: ReactJS, Web Technologies(HTML, CSS, JavaScript), TypeScript, Tailwind CSS</li>
 <br>
 <li>Backend: Node.js, Express.js, Django</li>
