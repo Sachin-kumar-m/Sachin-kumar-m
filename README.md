@@ -11,7 +11,8 @@
 <li>Backend: Node.js, Express.js, Django</li>
 <br>
 <li>Databases: MongoDB, MySQL</li>
-<br><br>
+<br>
+<br>
 <h2>Fun Facts 🤯</h2>
 <li>My code is so DRY it needs sunscreen. 🏖️</li>
 <li>My code is like a fine wine; it takes years to mature (or at least until it compiles without errors). 🍷👨‍💻</li>
