@@ -2,6 +2,8 @@
 
 ## About Me
 👋 Passionate developer on a journey through the digital wilderness.
+<br>
+<br>
 **##💻 Tech Stack, I've worked with 🧰**
 Frontend: ReactJS, Web Technologies(HTML, CSS, JavaScript),Tailwind CSS
 Backend: Node.js, Express.js, Django
