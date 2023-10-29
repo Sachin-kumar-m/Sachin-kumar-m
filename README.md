@@ -24,6 +24,6 @@
 <h2>Let's connect 📫</h2>
 Let's connect, collaborate, and make the web a better place, one commit at a time! 🚀
 <br>
-- [LinkedIn](https://www.linkedin.com/in/sachin-kumar-maheshwarappa/)
+<li><a href="https://www.linkedin.com/in/sachin-kumar-maheshwarappa/">Linkedin</li>
 
 
