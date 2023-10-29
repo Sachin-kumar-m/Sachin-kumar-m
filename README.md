@@ -6,7 +6,7 @@
 <br>
 <h2>Tech Stack 👨🏻‍💻</h2>
 
-<li>Frontend: ReactJS, Web Technologies(HTML, CSS, JavaScript), TypeScript, Tailwind CSS</li>
+<li>Frontend: ReactJS, Web Technologies(HTML, CSS, JavaScript), TypeScript, Tailwind</li>
 <br>
 <li>Backend: Node.js, Express.js, Django</li>
 <br>
