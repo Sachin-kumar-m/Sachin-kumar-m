@@ -1,7 +1,7 @@
 <h1>Hi there I'am Sachin 👋</h1>
 
 ## About Me
-👋 Passionate developer on a journey through the digital wilderness. I, personally, believe coding is not just about commands and algorithms; it's the art of crafting solutions and the magic of turning ideas into reality. 🤷
+👋 Passionate developer on a journey through the digital wilderness. I personally, believe coding is not just about commands and algorithms; it's the art of crafting solutions and the magic of turning ideas into reality. 🤷
 <br>
 <br>
 <h2>Tech Stack 👨🏻‍💻</h2>
